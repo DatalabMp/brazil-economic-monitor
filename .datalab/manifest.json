@@ -1,0 +1,11 @@
+{
+  "managed": true,
+  "owner": "DatalabMp",
+  "repository": "brazil-economic-monitor",
+  "controller": "DatalabMp/datalab-controller",
+  "project_type": "data-science",
+  "source": "Banco Central do Brasil",
+  "dashboard": "github-pages",
+  "created_at": "2026-09-29T15:58:42.653075+00:00",
+  "language": "pt-BR"
+}
